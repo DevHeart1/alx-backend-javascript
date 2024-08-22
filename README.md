@@ -13,6 +13,7 @@ This repository contains the project codes for the javascript backend short spec
 | [`0x02. ES6 classes`](./0x02-ES6_classes/) | ES6 Classes - **`OOP`** **`Javascript`** **`ES6`** |
 | [`0x03. ES6 data manipulation`](./0x03-ES6_data_manipulation/) | ES6 Data Manipulation - **`Javascript`** **`ES6`** |
 | [`0x04. Typescript`](./0x04-TypeScript/) | ES6 TypeScript - **`Typescript`** **`Javascript`** **`ES6`** |
+| [`0x05. NodeJS Basics`](./0x05-Node_JS_basic) | NodeJS Basics - **`Back-end`** **`JavaScript`** **`ES6`** **`NodeJS`** **`ExpressJS`**
 ---
 <div align="center">
   <img src="https://lh3.googleusercontent.com/vH1HTHhq7BIEuhIDuEc2Wrc2LgZigsJEWDR56ALuDFRZv9-jqCgHNHuBHIB-fLrrbwp7tJ8b7qeIJo0VtHUh=s0" alt="ALX logo">
